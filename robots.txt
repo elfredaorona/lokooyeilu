@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeegadaicu.jroebuck.co.uk/sitemap.xml
